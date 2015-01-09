@@ -1,0 +1,1 @@
+angular.module("myapp.deviceoperations",[]).config(["c8yNavigatorProvider","c8yViewsProvider",function(a){"use strict";a.addNavigation({name:"New plugin",icon:"cube",priority:1e5,path:"hello"})}]),angular.module("myapp.deviceoperations").run(["$templateCache",function(a){"use strict";a.put("/apps/operationsmanagementapp/deviceoperations/views/index.html","<h1>HELLO</h1>")}]);
