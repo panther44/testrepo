@@ -1,0 +1,11 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "operationsmanagementapp",
+  "key": "operationsmanagementapp",
+  "name": "Operations Management App",
+  "resourcesUrl": "https://github.com/panther44/testrepo",
+  "type": "HOSTED",
+  "imports": [
+    "core/c8yBranding"
+  ]
+}
